@@ -1,3 +1,4 @@
+import './App.css'
 import React, { useState, useEffect, createContext, useContext, useRef, useCallback } from 'react';
 
 //// --- CUSTOM SVG ICONS ---
